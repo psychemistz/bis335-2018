@@ -1,5 +1,5 @@
 ## Biomedical statistics & Statistical Learning, 2018, KAIST
-### Course Materials
+### Course Tutorials
 [1. R intro](docs/2-Rintro-2018.html)  
 [2. Probability](docs/3-Prob-tutorial-2018.html)  
 [3. Distribution-I](docs/4-Dist-std-tutorial-2018.html)  
